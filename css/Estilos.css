@@ -43,6 +43,14 @@ body
 }
 #post
 {
+    padding: 1em;
+}
+#footer
+{
+    background: #777;
+    color: green;
+    text-align: center;
+    padding: 0.5em;
     background: white;
     padding: 1em;
 }
